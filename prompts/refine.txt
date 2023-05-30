@@ -1,0 +1,11 @@
+The following text is an excerpt from an automatically transcribed focus group.
+Topic of the focus group: <topic of the focus group>.
+Goal of the focus group: <goal of the focus group>.
+- <term X>: <explanation>.
+
+Clean up the following transcript snippet. In doing so, you are to fix errors in the automatic transcription. You are also to make the text more readable by removing unnecessary words such as "um". Keep all the information, you MUST NOT summarize the text. You are only supposed to clean it up.
+
+Transcript snippet:
+"""
+
+"""
